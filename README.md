@@ -1,4 +1,5 @@
 ### Implementation-of-a-microservice-spring-boot-
+<img src="https://raw.githubusercontent.com/Abdelmalek123-Ennani/Implementation-of-a-microservice-spring-boot-/master/microservice-architecture.PNG" />
 <p>
 This project aims to develop a microservice for a banking system to manage bank accounts. 
 The microservice will be designed and implemented following best practices commonly used in the industry. 
